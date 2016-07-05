@@ -9,4 +9,4 @@ feature to automatically clone and import the project(s).
 CHANGELOG
 ---------
 
-   2015-09-18: Initial repo port to Github.
+   2015-09-18: Initial repo port to Github.krish
